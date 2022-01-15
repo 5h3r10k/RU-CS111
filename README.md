@@ -7,12 +7,14 @@ Fall 2021 CS111 course at Rutgers University. Visit the official site [here](htt
 ## Problem Set Files
 
 - [Problem Set 2](Pset-files/cs111-a2.zip)
+- [Problem Set 3](Pset-files/cs111-a3.zip)
 
 <br>
 
 ## Problem Set Solutions
 
 - [Problem Set 2](Pset-solutions/cs111-a2/)
+- [Problem Set 3](Pset-solutions/cs111-a3/)
 
 <br>
 
